@@ -1,9 +1,9 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 		<meta charset="utf-8">
-		<title>Kellen Savage - One Page Scroller Template</title>
+		<title>The Firm - One Page Scroller Template</title>
 		<meta name="generator" content="Bootply" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -29,40 +29,40 @@
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-            <img src="https://scontent-b-lax.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/1393116_10202058553375216_1665441441_n.jpg?oh=608848cd24dfa591f5cffb798c32a9f7&oe=5568AADE">
-          <div class="container">
-            <div class="carousel-caption">
-              <h2>Me</h2>
-              <p></p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-            <img src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10479169_10203853272202065_8926034487779948242_n.jpg?oh=c3fdeaad2deb9963e634a0c71065aba2&oe=55644191&__gda__=1432378503_3253c078b8cc4b9ade5829dbb6343692">
-          <div class="container">
-            <div class="carousel-caption">
-              <h2>My Friends</h2>
-              <p></p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-            <img src="https://scontent-b-lax.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/1907922_10205182404949553_4493755339714946291_n.jpg?oh=d6c77f2d64bd853b909179a344a40023&oe=55609BB6">
+          <img src="https://scontent-b-lax.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/1907922_10205182404949553_4493755339714946291_n.jpg?oh=d6c77f2d64bd853b909179a344a40023&oe=55609BB6">
           <div class="container">
             <div class="carousel-caption">
               <h2>My Family</h2>
               <p></p>
             </div>
           </div>
+        </div>
+        <div class="item">
+          <img src="https://scontent-b-lax.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/s720x720/10440224_10203853296162664_3939414526703033975_n.jpg?oh=a5f1d3b8c8b7bea0ce85f688203803ba&oe=55551A1C">
+          <div class="container">
+            <div class="carousel-caption">
+              <h2>My Hobbies</h2>
+              <p></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img src="/assets/example/bg_6.jpg">
+          <div class="container">
+            <div class="carousel-caption">
+              <h2>Renovations &amp; Adaptive Re-use</h2>
+              <p></p>
+            </div>
+          </div>
         </div>       
       </div><!-- /.carousel-inner -->
-      <div class="logo"; style=color:blue></div> 
+      <div class="logo"; style=color:red>Kellen Savage</div> 
       <!-- Controls -->
       <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-        <!--<span class="glyphicon glyphicon-chevron-left"></span>-->
+        <span class="glyphicon glyphicon-chevron-left"></span>
       </a>
       <a class="right carousel-control" href="#myCarousel" data-slide="next">
-        <!--<span class="glyphicon glyphicon-chevron-right"></span>-->
+        <span class="glyphicon glyphicon-chevron-right"></span>
       </a>  
     </div>
     <!-- /.carousel -->
@@ -84,10 +84,9 @@
         <ul class="nav navbar-nav nav-justified">
           <li><a href="#section1">Home</a></li>
           <li><a href="#section2">Profile</a></li>
-          <!--<li><a href="#section3">Background</a></li>-->
-          <!--<li class="dropdown">
+          <li class="dropdown">
             <a href="#section3" class="dropdown-toggle" data-toggle="dropdown">Projects <b class="caret"></b></a>
-            <!--<ul class="dropdown-menu">
+            <ul class="dropdown-menu">
               <li><a href="#">Academic</a></li>
               <li><a href="#">Commercial</a></li>
               <li><a href="#">Financial</a></li>
@@ -95,8 +94,8 @@
               <li><a href="#">Medical</a></li>
               <li><a href="#">Religious</a></li>
             </ul>
-          </!--li>-->
-          <li><a href="#section4">Resume</a></li>
+          </li>
+          <li><a href="#section4">Location</a></li>
           <li><a href="#section5">Contact</a></li>
         </ul>
       </div><!--/.nav-collapse -->
@@ -109,11 +108,11 @@
 <div class="container">
   <div class="col-sm-10 col-sm-offset-1">
     <div class="page-header text-center">
-      <h1>Kellen Savage</h1>
+      <h1>Since 1923</h1>
     </div>
     
     <p class="lead text-center"> 
-      I am a 23 year old UCSD engineering student who enjoys science and math and loves to learn new things.  I enjoy video games, music festivals, and having a good time with friends.  I am shy but once you get to know me you will have a friend for life!
+      The Firm has been providing Professional Design Services in the England area since 1923.
     </p> 
     
     <hr>
@@ -138,16 +137,16 @@
       <hr>
      
       <p>
-      I was born and grew up in Pasco, Washington with my brother Tanner Savage and my parents Tom and Salina.  It is a small town in South Eastern Washington and is part of a greater region called the Tri-Cities.  This region is commonly known for creating the plutonium for the Manhattan Project and has a diverse population ranging from farmers to nuclear physicists. My parents created their own business called Savage Logistics transporting hazardous materials such as nuclear waste for the various projects around the area.
-  	  </p> 
-      <p>
-      I went to UCSD after high school and declared my major in chemical engineering but because of my interest in programming after my third year began to explore jobs in that field.  I have learned many languages such as C++, C#, HTML, Java, and MatLab and have an interest in learning many more.  
-      </p> 
-      <p>
-      During the summer of 2013 I worked at SAIC programming a windows program that aided the installation of cameras for Radiation Portal Monitors. These cameras were used to record license plate numbers and digitally link them with radiation scans of and particular vehicle.
+	  The Firm has had a great deal of experience and is highly regarded for its expertise in the areas of design, construction administration, construction management, tight cost control and scheduling.
 	  </p> 
       <p>
-          In the winter of 2014-2015 I worked with SAIC helping improve their MES controller for their automated solar assembly systems. I performed basic IT work as well as provided support for the automated systems and tracked root causes for system failures to ensure the factory could run for extended periods of time.
+	  We have been involved in a wide range of building projects, including college facilities, banks, schools, nursing homes, office buildings, churches, industrial buildings and major urban development projects.
+      </p> 
+      <p>
+	  The various projects have included new construction, renovation and adaptive re-use as a way of providing new space for the various clients. Tessier Associates provides in-house programming, master planning, architectural design, construction documentation, project administration and interior design services. Sustainable design, as appropriate for each client, is incorporated in cost effective ways to benefit the long term value of the buildings created by the firm.
+	  </p> 
+      <p>
+	  Together with selected consultants, The Firm provides complete professional services including landscape architecture, structural engineering, electrical and mechanical engineering and site planning.
 	  </p> 
       
       <hr>
@@ -160,9 +159,9 @@
 <div class="divider"></div>
   
 <section class="bg-3">
-  <!--<div class="col-sm-6 col-sm-offset-3 text-center"><h2 style="padding:20px;background-color:rgba(5,5,5,.8)">Background</h2></div>-->
+  <div class="col-sm-6 col-sm-offset-3 text-center"><h2 style="padding:20px;background-color:rgba(5,5,5,.8)">Clients &amp; Partners</h2></div>
 </section>
-  <!--
+  
 <div class="divider" id="section3"></div>
   
 <div class="bg-4">
@@ -171,26 +170,26 @@
 	   <div class="col-sm-4 col-xs-6">
       
         <div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="#" title="Education"><img src="http://admin.xosn.com/downloads1/23089.jpg?KEY=HUVSFHPEZBATOZJ.20070809185852&DB_ACCOUNT_TYPE=AGENT&skip_agent_menus=NO&DB_MENU_ID=286&skip_agent_info=NO&DB_LANG=C&DB_OEM_ID=5800" class="img-responsive"></a></div>
+          <div class="panel-thumbnail"><a href="#" title="Renovations"><img src="//placehold.it/600x400/444/F8F8F8" class="img-responsive"></a></div>
           <div class="panel-body">
-            <p>Education</p>
+            <p>Renovations</p>
             <p></p>
 
-          </div>-->
-        <!--</div>/panel-->
-      <!--</div>/col-->
+          </div>
+        </div><!--/panel-->
+      </div><!--/col-->
       
-      <!--<div class="col-sm-4 col-xs-6">
+      <div class="col-sm-4 col-xs-6">
       
       	<div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="#" title="Academic Institutions"><img src="http://admin.xosn.com/downloads1/23089.jpg?KEY=HUVSFHPEZBATOZJ.20070809185852&DB_ACCOUNT_TYPE=AGENT&skip_agent_menus=NO&DB_MENU_ID=286&skip_agent_info=NO&DB_LANG=C&DB_OEM_ID=5800" class="img-responsive"></a></div>
+          <div class="panel-thumbnail"><a href="#" title="Academic Institutions"><img src="//placehold.it/600x400/454545/FFF" class="img-responsive"></a></div>
           <div class="panel-body">
             <p>Academic Institutions</p>
             <p></p>
             
           </div>
-        </div>
-      </div>
+        </div><!--/panel--> 
+      </div><!--/col-->
       
       <div class="col-sm-4 col-xs-6">
       
@@ -201,9 +200,9 @@
             <p></p>
             
           </div>
-        </div>
+        </div><!--/panel--> 
 
-      </div> 
+      </div><!--/col--> 
       
       <div class="col-sm-4 col-xs-6">
       
@@ -214,9 +213,9 @@
             <p></p>
             
           </div>
-        </div> 
+        </div><!--/panel--> 
 
-      </div> 
+      </div><!--/col--> 
       
       <div class="col-sm-4 col-xs-6">
       
@@ -227,9 +226,9 @@
             <p></p>
             
           </div>
-        </div> 
+        </div><!--/panel--> 
 
-      </div>
+      </div><!--/col--> 
       
       <div class="col-sm-4 col-xs-6">
       
@@ -240,15 +239,16 @@
             <p></p>
             
           </div>
-        </div> 
+        </div><!--/panel--> 
 
-      </div>
+      </div><!--/col--> 
       
-	</div>
-  </div>
+	</div><!--/row-->
+  </div><!--/container-->
 </div>
--->
+
 <div class="divider" id="section4"></div>
+
 <div class="row">
   <div class="col-md-8 col-md-offset-1">
   </div>
@@ -257,12 +257,10 @@
 <div class="row">
   
   <div class="col-sm-10 col-sm-offset-1">
-      <h1>Resume</h1>
-  </div>
-    <div id="resume">
-        <iframe src="https://onedrive.live.com/embed?cid=F6FAE37E54224645&resid=F6FAE37E54224645%212015&authkey=ANkhEY1P9iesKh0&em=2" width="600" height="400" align="middle" frameborder="0" scrolling="yes"></iframe>
-    </div>
- <!-- <div id="map-canvas"></div>
+      <h1>Location</h1>
+  </div>   
+       
+  <div id="map-canvas"></div>
   
   <hr>
   
@@ -270,20 +268,20 @@
   <div class="col-sm-3 pull-right">
 
       <address>
-       
+        The Firm, Inc.<br>
         <span id="map-input">
-        3969 Mahaila Ave Unit 115<br>
-        San Diego, CA 92122</span><br>
-        P: (509) 551-5519
+        1500 Main Street<br>
+        Springfield, MA 01115</span><br>
+        P: (413) 700-5999
       </address>
     
       <address>
-        <strong>Email Me</strong><br>
-        <a href="mailto:#">savage.kellen@gmail.com</a>
+        <strong>Email Us</strong><br>
+        <a href="mailto:#">first.last@example.com</a>
       </address>          
   </div>
-  -->
-</div>
+  
+</div><!--/row-->
   
 <div class="divider" id="section5"></div>  
 
@@ -292,50 +290,19 @@
   <hr>
   
   <div class="col-sm-9 col-sm-offset-1">
-      <div class="col-md-12">
-          <h1>Contact Me</h1>
-          <address>
-              <!--The Firm, Inc.<br>-->
-              <!--<span id="map-input">-->
-              <strong>Adress:</strong><br>
-              3969 Mahaila Ave Unit 115<br>
-              San Diego, CA 92122
-              <!--</span>--><br>
-              P: (509) 551-5519
-          </address>
-          <address>
-              <strong>Email Me</strong><br>
-              <a href="mailto:#">savage.kellen@gmail.com</a>
-          </address>
-      </div>
-      <!--<div class="row form-group">-->
-         <!-- <div class="col-sm-3 pull-right">
-              <address>-->
-                  <!--The Firm, Inc.<br>-->
-                  <!--<span id="map-input">-->
-                 <!-- <strong>Adress:</strong><br>
-                      3969 Mahaila Ave Unit 115<br>
-                      San Diego, CA 92122-->
-                  <!--</span>--><br>
-                <!--  P: (509) 551-5519
-              </address>
-
-              <address>
-                  <strong>Email Me</strong><br>
-                  <a href="mailto:#">savage.kellen@gmail.com</a>
-              </address>
-          </div>
+      
+      <div class="row form-group">
         <div class="col-md-12">
-        <h1>Contact Me</h1>        
+        <h1>Contact Us</h1>        
         </div>
         <div class="col-xs-4">
           <input type="text" class="form-control" id="firstName" name="name" placeholder="Your Name">
         </div>
         <div class="col-xs-6">
           <input type="text" class="form-control" id="organization" name="organization" placeholder="Company or Organization">
-        </div>-->
+        </div>
       </div>
-      <!--<div class="row form-group">
+      <div class="row form-group">
           <div class="col-xs-5">
           <input type="text" class="form-control" name="email" placeholder="Email">
           </div>
@@ -350,9 +317,9 @@
       </div>
       <div class="row form-group">
           <div class="col-xs-10">
-            <button class="btn btn-default pull-right">Contact Me</button>
+            <button class="btn btn-default pull-right">Contact Us</button>
           </div>
-      </div>-->
+      </div>
     
   </div>
   
@@ -362,10 +329,10 @@
   	<div class="col-sm-8 col-sm-offset-2 text-center">
 
       <ul class="list-inline center-block">
-        <li><a href="https://www.facebook.com/kellen.savage"><img src="/Icons/facebook.png" width="75" height="75"></a></li>
-        <li><a href="https://plus.google.com/+KellenSavage/about"><img src="/Icons/google_plus.png" width="75" height="75"></a></li>
-        <li><a href="https://www.linkedin.com/profile/view?id=244254809&authType=NAME_SEARCH&authToken=WmGc&locale=en_US&trk=tyah2&trkInfo=tarId%3A1423117702766%2Ctas%3AKellen%2Cidx%3A1-1-1"><img src="/Icons/linkedin.png" width="75" height="75"></a></li>
-        <li><a href="https://github.com/Kellen-Savage"><img src="/Icons/github.png" width="75" height="75"></a></li>
+        <li><a href="http://facebook.com/bootply"><img src="/assets/example/soc_fb.png"></a></li>
+        <li><a href="http://twitter.com/bootply"><img src="/assets/example/soc_tw.png"></a></li>
+        <li><a href="http://google.com/+bootply"><img src="/assets/example/soc_gplus.png"></a></li>
+        <li><a href="http://pinterest.com/in1"><img src="/assets/example/soc_pin.png"></a></li>
       </ul>
       
   	</div><!--/col-->
@@ -375,7 +342,7 @@
 
 <div id="footer">
   <div class="container">
-    <p class="text-muted"></p>
+    <p class="text-muted">Copyright ©2014 ACME, Inc.</p>
   </div>
 </div>
 
